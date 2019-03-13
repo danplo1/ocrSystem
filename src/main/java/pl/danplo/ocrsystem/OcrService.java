@@ -27,7 +27,7 @@ public class OcrService {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        return url;
+        return "";
     }
 
 }
